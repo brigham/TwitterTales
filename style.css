@@ -1,0 +1,14 @@
+body { width: 350px;
+       padding-left: 50px;
+       padding-top: 25px;
+     }
+
+h1 { font-family: Helvetica, Verdana, Arial, sans-serif; }
+
+div.tweetpara { margin-bottom: 12px; }
+
+a img { border: 0; }
+
+#toolbar { border: thick solid black;
+	   padding: 5px 5px 5px 5px;
+	   background: #C0C0C0; }
