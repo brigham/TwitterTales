@@ -1,7 +1,7 @@
 <?php
 
 function get_db() {
-  if (! @mysql_connect("brigsdb.db", "tt", "YRDmfvvLt2fAf6M3") ) {
+  if (! @mysql_connect("HOST", "USER", "PASSWORD") ) {
     echo( "<p>error 1</p>" );
     exit();
   }
